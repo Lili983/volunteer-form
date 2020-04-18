@@ -1,0 +1,44 @@
+html {
+  font-family: "Noto Serif", serif;
+}
+
+header {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+.opt {
+  color: #70ad55;
+}
+
+.border {
+  border-bottom: 1px solid #70ad55;
+}
+
+.btn {
+  background-color: #6e8c62;
+  border-style: none;
+}
+
+input {
+  border-color: #6e8c62;
+}
+
+
+textarea {
+  height: 10em;
+  border-color: #6e8c62;
+}
+
+select {
+  border-color: #6e8c62;
+}
+
+.line {
+  border: none;
+}
+
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
