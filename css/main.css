@@ -7,17 +7,17 @@ header {
   color: #fff;
 }
 
+.btn {
+  background-color: #6e8c62;
+  border-style: none;
+}
+
 .opt {
   color: #70ad55;
 }
 
 .border {
   border-bottom: 1px solid #70ad55;
-}
-
-.btn {
-  background-color: #6e8c62;
-  border-style: none;
 }
 
 input {
